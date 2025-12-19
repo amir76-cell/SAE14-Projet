@@ -4,8 +4,6 @@
 ##  Description du projet
 Ce projet consiste en la réalisation d’un site web statique dédié au jeu
 **Call of Duty Black Ops 7**.  
-Il a été développé dans le cadre d’un projet universitaire afin de mettre en
-pratique les bases du développement web.
 
 Le site présente le jeu, son gameplay ainsi qu’une page de présentation
 personnelle.
