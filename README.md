@@ -50,7 +50,7 @@ personnelle.
 
 ##  Hébergement
 Le site est hébergé en ligne grâce à **GitHub Pages** et accessible via le lien suivant :  
-👉 https://TON_PSEUDO.github.io/NOM_DU_DEPOT/
+👉 https://amir76-cell.github.io/SAE14-Projet/
 
 ---
 
